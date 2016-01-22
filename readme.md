@@ -1,7 +1,7 @@
 # Don't have time nor motivation to keep updating this project #
 
 # NYXImagesKit #
-
+比如筛选、模糊、优化、蒙版、调整大小、旋转以及保存等等。同时还提供了一个UIImageView子类从URL异步加载图片，并在下载完毕时展示图片。
 This is a project for iOS which regroups a collection of useful *UIImage* categories to handle operations such as filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. There is also a subclass of *UIImageView* to load an image asynchronously from a URL and display it as it is downloaded.
 
 It requires at least *iOS 5.1*.
